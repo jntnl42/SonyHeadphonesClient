@@ -16,6 +16,9 @@
 </p>
 
 ![Program Showcase](https://github.com/Plutoberth/SonyHeadphonesClient/blob/master/static/showcase.gif)
+## Notes
+
+Working on Linux implementation of Bluetooth connector
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -61,7 +64,7 @@ For now, only the WH-1000-XM3 is supported. Other headsets may work, but I haven
 It shouldn't be too much work to add support for a new platform. Open a PR if you'd like to do so. See [For Developers - Adding a new platform](#adding-a-new-platform).
 
 - [x] Windows
-- [ ] [Linux](https://github.com/Plutoberth/SonyHeadphonesClient/issues/7)
+- [!] [Linux](https://github.com/Plutoberth/SonyHeadphonesClient/issues/7)
 - [ ] [macOS](https://github.com/Plutoberth/SonyHeadphonesClient/issues/6)
 
 
